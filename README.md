@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0edqggje073xko2661zc3ciir)
+
 <!--
 **DarraghKennedy2008/DarraghKennedy2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
